@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "created_date": "10.11.2014",
+    "name": "Тестовая запись 1",
+    "service_name": "Услуга 1",
+    "service_code": "service_1",
+    "direction": "up",
+    "description": "one more desc",
+    "budget_item": "Статья расхода",
+    "sum": "14842,70"
+  },
+  {
+    "id": "2",
+    "created_date": "18.10.2017",
+    "name": "Тестовая запись 2",
+    "service_name": "Услуга 1",
+    "service_code": "service_1",
+    "direction": "up",
+    "description": "some one description",
+    "budget_item": "Согласовання статья",
+    "sum": "14842,70"
+  },
+  {
+    "id": "3",
+    "created_date": "18.10.2017",
+    "name": "Тестовая запись 3",
+    "service_name": "Услуга 2",
+    "service_code": "service_2",
+    "direction": "up",
+    "description": "some one description",
+    "budget_item": "Согласовання статья",
+    "sum": "14842,70"
+  },
+  {
+    "id": "4",
+    "created_date": "18.10.2017",
+    "name": "Тестовая запись 4",
+    "service_name": "Услуга 1",
+    "service_code": "service_1",
+    "direction": "down",
+    "description": "some one description",
+    "budget_item": "Согласовання статья",
+    "sum": "14842,70"
+  },
+  {
+    "id": "5",
+    "created_date": "18.10.2017",
+    "name": "Тестовая запись 5",
+    "service_name": "Услуга 1",
+    "service_code": "service_1",
+    "direction": "down",
+    "description": "some one description",
+    "budget_item": "Согласовання статья",
+    "sum": "14842,70"
+  },
+  {
+    "id": "6",
+    "created_date": "18.10.2017",
+    "name": "Тестовая запись 6",
+    "service_name": "Услуга 1",
+    "service_code": "service_1",
+    "direction": "up",
+    "description": "some one description",
+    "budget_item": "Согласовання статья",
+    "sum": "14842,70"
+  },
+  {
+    "id": "7",
+    "created_date": "18.10.2017",
+    "name": "Тестовая запись 7",
+    "service_name": "Услуга 1",
+    "service_code": "service_1",
+    "direction": "up",
+    "description": "some one description",
+    "budget_item": "Согласовання статья",
+    "sum": "14842,70"
+  },
+  {
+    "id": "8",
+    "created_date": "18.10.2017",
+    "name": "Тестовая запись 8",
+    "service_name": "Услуга 4",
+    "service_code": "service_4",
+    "direction": "down",
+    "description": "some one description",
+    "budget_item": "Статья расхода",
+    "sum": "14842,70"
+  }
+]
